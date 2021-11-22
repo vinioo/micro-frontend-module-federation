@@ -18,5 +18,5 @@ cd app2
 npm i
 npm start
 ```
-[http://localhost:5002](http://localhost:5002)
+[http://localhost:3001/](http://localhost:3001/)
 
